@@ -1,1 +1,5 @@
-# VariableHelper
+# StringHelper
+# SlugHelper
+# PasswordHelper
+# DateTimeHelper
+# CryptoHelper
